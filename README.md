@@ -15,4 +15,4 @@ It provides insights into employee attrition, department distribution, work-life
 - Power BI  
 - Excel/CSV Dataset  
 ##📸 Dashboard screenshot
-  [Dashboard Screenshot](Screenshot%20 2025-08-26%103328.png)
+  [Dashboard Screenshot](Screenshot%20 2025-08-26% 103328.png)
