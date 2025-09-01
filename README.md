@@ -14,6 +14,3 @@ It provides insights into employee attrition, department distribution, work-life
 ## 🛠 Tools Used
 - Power BI  
 - Excel/CSV Dataset  
-
-## 📸 Dashboard Screenshot
-![Dashboard Screenshot](Screenshot%202025-08-26%20082323.png)
